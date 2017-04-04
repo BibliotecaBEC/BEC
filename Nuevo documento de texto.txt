@@ -1,0 +1,18 @@
+slac
+visual studio online
+
+
+forticlient:
+
+user :3visions
+pass: vpnstg
+
+*************************
+web
+User: stgchile/sp_farm
+pass: share.stg
+*************************
+
+
+vpnstg
+
